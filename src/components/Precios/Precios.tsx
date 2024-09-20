@@ -9,11 +9,11 @@ export default function Precios() {
         </div>
         <div className='valor-tarjeta2'>
         <h2>De 4 a 12 años:</h2>          
-        <p>Hasta 25 de Octubre: $26.000</p>
+        <p>Hasta 20 de Octubre: $26.000</p>
         </div>
         <div className='valor-tarjeta3'>
         <h2>De 12 años en adelante:</h2>          
-        <p>Hasta 25 de Octubre: $34.000</p>
+        <p>Hasta 20 de Octubre: $34.000</p>
         </div>
         <div className='valor-tarjeta4'>
         <h2>Alias:</h2>          
